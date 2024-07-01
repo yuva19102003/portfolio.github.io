@@ -4,6 +4,6 @@
 
 [`website link`](https://yuva19102003.github.io/portfolio.github.io/)
 
-<img src="./demo.">
+<img src="./demo.png">
 ----
 
